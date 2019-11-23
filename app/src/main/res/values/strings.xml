@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="about_us_acercade">Acerca de..</string>
+    <string name="descripcion_about_us">Es una aplicaion de resportes de reservas para la empres Chifa CHAU FAN</string>
+    <string name="ahutores">Ahutores</string>
+    <string name="title_activity_about_us">AboutUs</string>
 </resources>
