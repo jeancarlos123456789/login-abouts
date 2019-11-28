@@ -39,6 +39,7 @@
             android:layout_height="wrap_content"
             android:text="Olvidaste tu contraseña"
             android:textColor="@color/colorPrimary1">
+            //Hola mi amor:
 
         </TextView>
 
