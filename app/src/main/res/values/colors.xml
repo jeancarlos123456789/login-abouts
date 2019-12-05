@@ -2,6 +2,11 @@
 <resources>
     <color name="colorPrimary">#7FFFD4</color>
     <color name="colorPrimary1">#0000FF</color>
+
+// Color de registrarse
+    <color name="colorPrimary2">#ECECEC</color>
+    <color name="fondo">#333333</color>
+
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
 </resources>

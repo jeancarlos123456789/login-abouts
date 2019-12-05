@@ -10,6 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".DetalleProductoActivity"></activity>
+        <activity android:name=".RegistrarseActivity"></activity>
         <activity android:name=".AuthActivity" />
         <activity android:name=".ForgotPasswordActivity" />
         <activity android:name=".SingUpActivity" />
