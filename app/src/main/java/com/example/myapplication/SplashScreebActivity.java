@@ -11,7 +11,7 @@ public class SplashScreebActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        Intent o =new Intent( this,AuthActivity.class);
+        Intent o =new Intent( this,RegistrarseActivity.class);
         startActivity(o);
         finish();
 
